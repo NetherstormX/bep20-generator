@@ -143,7 +143,7 @@ export default {
           tokenRecover: true,
           removeCopyright: true,
           originalPrice: 2,
-          price: 0.5,
+          price: 0.8,
           gas: 2254686,
         },
       ],
