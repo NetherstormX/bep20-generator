@@ -1,11 +1,11 @@
 <template>
     <div>
         <b-jumbotron text-variant="white"
-                     header="Create your BEP20 Token"
+                     header="Jewelcraft"
                      class="mb-0 kingyna-gradient"
                      fluid>
             <template #lead>
-                Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable BEP20 Token.
+                Jewelcrafter will create you an unique Gem.
                 <br>
                 BEP20 Generator is the easiest and fastest way to create your own BEP20 token on the Binance Smart Chain network. No coding skills are required.
             </template>
