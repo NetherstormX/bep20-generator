@@ -5,14 +5,14 @@
                      class="mb-0 wiretap-gradient"
                      fluid>
             <template #lead>
-                TOKEN GENERATOR
+                Jewel GENERATOR
                 <br>
-                BEP20 Generator is the easiest and fastest way to create your own BEP20 token on the Binance Smart Chain network. No coding skills are required.
+                Jewel Generator is the easiest and fastest way to create your own BEP20 token on the Binance Smart Chain network. No coding skills are required.
             </template>
             <hr class="my-5">
             <p>
                 <b-button to="/create-token/" size="lg" variant="success" class="my-2 py-3 px-5 text-uppercase">
-                    Create BEP20 Token
+                    Create BEP20 Jewel
                 </b-button>
                 <a class="btn btn-lg btn-outline-light py-3 px-5 text-uppercase"
                    href="#pricing"
